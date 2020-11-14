@@ -1,4 +1,4 @@
-# Springboard
+# Springboard - Machine Learning Engineer Career Track
 
 This program teaches all of the fundementals of becoming a Machine Learning Engineer.
 It includes a set of mini projects and a capstone project.
