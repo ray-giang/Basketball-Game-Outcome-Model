@@ -32,7 +32,7 @@ Using webscrapped data from 2000-2020 season, data is manipulated to have advanc
 
 * [Dataset](https://github.com/ray-giang/Springboard/blob/master/Basketball%20Game%20Outcome%20Model/final_game_results.csv)
 * [Gradient Boosting Model Parameters](https://github.com/ray-giang/Springboard/blob/master/Basketball%20Game%20Outcome%20Model/model.bin)
-* [Prediction Function]()
+* [Prediction Function](https://github.com/ray-giang/Springboard/blob/master/Basketball%20Game%20Outcome%20Model/model.py)
 * [Flask API](https://github.com/ray-giang/Springboard/blob/master/Basketball%20Game%20Outcome%20Model/main.py)
 
 #### Current Process 
