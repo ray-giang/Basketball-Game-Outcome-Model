@@ -25,15 +25,30 @@ Under is a Table of Contents which outlines the curriculum through mini projects
 * [Deployment](https://github.com/ray-giang/Springboard/blob/master/Basketball%20Game%20Outcome%20Model/main.py)
 
 ### 3. Basketball Game Outcome Prediction
+
+#### Outline
 My Capstone Project is to predict the likelihood of a team winning a basketball game.
 Using webscrapped data from 2000-2020 season, data is manipulated to have advanced metrics and rolling team statistics. Using all of the results from the capstone submissions, the predictive model is deployed in production locally. There are four main components of this project:
+
 * [Dataset](https://github.com/ray-giang/Springboard/blob/master/Basketball%20Game%20Outcome%20Model/final_game_results.csv)
 * [Gradient Boosting Model Parameters](https://github.com/ray-giang/Springboard/blob/master/Basketball%20Game%20Outcome%20Model/model.bin)
 * [Prediction Function]()
 * [Flask API](https://github.com/ray-giang/Springboard/blob/master/Basketball%20Game%20Outcome%20Model/main.py)
 
+#### Current Process 
 Currently, this is how the model makes a prediction:
 1. API retrieves a fixed observation from historical data of games
 2. API retrieves the best parameters to fit the model 
 3. API calls the prediction function to predict the outcome of the game using the retrieved observation and model parameters
 4. Server returns the probability at which Team A will win the game 
+
+#### Future Process
+For future versions, this project will have additional features. This will include the following:
+1. Refactored code for web scraping and data preprocessing
+2. Public server 
+3. User interface that asks the end user for the two teams that will be playing
+
+By having these additional features, this will allow the product to do the following steps:
+1. Webscrape [Basketball Reference](https://www.basketball-reference.com/) for recent game outcomes
+2. Normalize the data to better fit the model
+3. Create dynamic interface that can predict the outcome of any upcoming game
