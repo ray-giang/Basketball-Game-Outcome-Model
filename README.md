@@ -23,4 +23,10 @@ Under is a Table of Contents which outlines the curriculum through mini projects
 * [ML with Spark](https://github.com/ray-giang/Springboard/blob/master/Mini%20Projects/Mini_Project_Spark_ML.ipynb)
 
 ### 2. Capstone Submissions
+* [Web Scraping](https://github.com/ray-giang/Springboard/blob/master/Basketball%20Game%20Outcome%20Model/SB%20Capstone%20Project%20-%20Web%20Scraping%20.ipynb)
+* [Data Manipulations](https://github.com/ray-giang/Springboard/blob/master/Basketball%20Game%20Outcome%20Model/SB%20Capstone%20Project%20-%20Data%20Manipulations.ipynb)
+* [ML Prototype](https://github.com/ray-giang/Springboard/blob/master/Basketball%20Game%20Outcome%20Model/Springboard%20-%20Modelling%20Cleaned.ipynb)
+* [DL Prototype](https://github.com/ray-giang/Springboard/blob/master/Basketball%20Game%20Outcome%20Model/SB_Capstone_Project_DL_Prototype.ipynb)
+* [Deployment](https://github.com/ray-giang/Springboard/blob/master/Basketball%20Game%20Outcome%20Model/main.py)
+
 ### 3. Basketball Game Outcome Model
