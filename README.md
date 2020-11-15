@@ -7,3 +7,5 @@ My Capstone Project is to predict the likelihood of a team winning a basketball 
 Using webscrapped data from 2000-2020 season, data is manipulated to have advanced metrics and rolling team statistics.
 
 Model is currently deployed in production locally, but will create a public API shortly for demo purposes
+
+Under is a Table of Contents which outlines the curriculum through mini projects, capstone submissions, the current and future outlook of the capstone project
