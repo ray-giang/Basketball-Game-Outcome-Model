@@ -13,8 +13,8 @@ Under is a Table of Contents which outlines the curriculum through mini projects
 ## Table of Contents
 
 ### 1. Mini Projects
-  i) [APIs](https://github.com/ray-giang/Springboard/blob/master/Mini%20Projects/Mini_Project_Data_Wrangling_at_Scale_with_Spark.ipynb) 
-  ii) [Data Wrangling] <https://github.com/ray-giang/Springboard/blob/master/Mini%20Projects/Mini_Project_Data_Wrangling_at_Scale_with_Spark.ipynb>
+  i) [APIs](https://github.com/ray-giang/Springboard/blob/master/Mini%20Projects/Mini_Project_Data_Wrangling_at_Scale_with_Spark.ipynb)
+  ii) [Data Wrangling](https://github.com/ray-giang/Springboard/blob/master/Mini%20Projects/Mini_Project_Data_Wrangling_at_Scale_with_Spark.ipynb)
   iii) [Spark SQL]
   iv) [Linear Regression]
   v) [Logistic Regression] 
