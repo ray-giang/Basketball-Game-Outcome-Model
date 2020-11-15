@@ -10,4 +10,8 @@ Model is currently deployed in production locally, but will create a public API 
 
 Under is a Table of Contents which outlines the curriculum through mini projects, capstone submissions, the current and future outlook of the capstone project
 
-### Springboard - Machine Learning Engineer Career Track
+## Table of Contents
+
+### 1. Mini Projects
+### 2. Capstone Submissions
+### 3. Basketball Game Outcome Model
