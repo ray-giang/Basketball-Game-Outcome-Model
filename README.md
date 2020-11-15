@@ -38,7 +38,7 @@ Using webscrapped data from 2000-2020 season, data is manipulated to have advanc
 #### Current Process 
 Currently, this is how the model makes a prediction:
 1. API retrieves a fixed observation from historical data of games
-2. API retrieves the best parameters to fit the model 
+2. API loads the saved model parameters 
 3. API calls the prediction function to predict the outcome of the game using the retrieved observation and model parameters
 4. Server returns the probability at which Team A will win the game 
 
