@@ -13,13 +13,14 @@ Under is a Table of Contents which outlines the curriculum through mini projects
 ## Table of Contents
 
 ### 1. Mini Projects
-  i) [APIs](https://github.com/ray-giang/Springboard/blob/master/Mini%20Projects/Mini_Project_Data_Wrangling_at_Scale_with_Spark.ipynb)
-  ii) [Data Wrangling](https://github.com/ray-giang/Springboard/blob/master/Mini%20Projects/Mini_Project_Data_Wrangling_at_Scale_with_Spark.ipynb)
-  iii) [Spark SQL]
-  iv) [Linear Regression]
-  v) [Logistic Regression] 
-  vi) [Clustering] 
-  vii) [Tree Based Algorithms] 
-  viii) [ML with Spark]
+* [APIs](https://github.com/ray-giang/Springboard/blob/master/Mini%20Projects/Mini_Project_Data_Wrangling_at_Scale_with_Spark.ipynb)
+* [Data Wrangling](https://github.com/ray-giang/Springboard/blob/master/Mini%20Projects/Mini_Project_Data_Wrangling_at_Scale_with_Spark.ipynb)
+* [Spark SQL](https://github.com/ray-giang/Springboard/blob/master/Mini%20Projects/Mini_Project_SQL_with_Spark.ipynb)
+* [Linear Regression](https://github.com/ray-giang/Springboard/blob/master/Mini%20Projects/Mini_Project_Linear_Regression.ipynb)
+* [Logistic Regression](https://github.com/ray-giang/Springboard/blob/master/Mini%20Projects/Mini_Project_Logistic_Regression.ipynb)
+* [Clustering](https://github.com/ray-giang/Springboard/blob/master/Mini%20Projects/Mini_Project_Clustering.ipynb)
+* [Tree Based Algorithms](https://github.com/ray-giang/Springboard/blob/master/Mini%20Projects/Mini_Project_Tree-Based_Algorithms.ipynb)
+* [ML with Spark](https://github.com/ray-giang/Springboard/blob/master/Mini%20Projects/Mini_Project_Spark_ML.ipynb)
+
 ### 2. Capstone Submissions
 ### 3. Basketball Game Outcome Model
